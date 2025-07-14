@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Hanumant Jain! 👋  
 
-<!--
-**hanumantjain/hanumantjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Blockchain Enthusiast | Cloud Computing**  
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-hanumantjain.com-blue?style=flat-square&logo=google-chrome)](https://hanumantjain.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HanumantJain-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hanumant-jain/)  
+[![GitHub](https://img.shields.io/github/followers/HanumantJain?style=social)](https://github.com/HanumantJain)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+
+- 🎓 **Master’s in Computer Science** - *George Washington University (2025)*  
+- 💻 Passionate about **Web Development, Blockchain, and Cloud Computing**  
+- 🏆 **ETHGlobal Hackathon & Binance Ideathon Participant**  
+- 🌍 Always exploring new technologies and open-source projects  
+
+---
+
+## ⚡ GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanumantJain&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+
+📧 **Email**: hanumantjain939@gmail.com  
+🌐 **Portfolio**: [hanumantjain.com](https://hanumantjain.com)  
+
+---
+
+💡 *Feel free to explore my repositories and collaborate on exciting projects!* 🚀
