@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Blockchain Enthusiast | Cloud Computing**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hanumantjain.com-blue?style=flat-square&logo=google-chrome)](https://hanumantjain.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-hanumantjain.tech-blue?style=flat-square&logo=google-chrome)](https://hanumantjain.tech)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HanumantJain-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hanumant-jain/)  
 [![GitHub](https://img.shields.io/github/followers/HanumantJain?style=social)](https://github.com/HanumantJain)  
 
@@ -26,7 +26,7 @@
 ## 📫 Connect with Me  
 
 📧 **Email**: hanumantjain939@gmail.com  
-🌐 **Portfolio**: [hanumantjain.com](https://hanumantjain.com)  
+🌐 **Portfolio**: [hanumantjain.tech](https://hanumantjain.tech)  
 
 ---
 
