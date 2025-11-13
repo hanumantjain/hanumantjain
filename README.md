@@ -1,6 +1,6 @@
 # Hi, I'm Hanumant Jain! 👋  
 
-🚀 **Software Engineer | Agentic AI | Web Developer |Blockchain Enthusiast | Cloud Computing**  
+🚀 **Software Engineer | Agentic AI | Full Stack Developer |Blockchain Enthusiast | Cloud Computing**  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hanumantjain.tech-blue?style=flat-square&logo=google-chrome)](https://hanumantjain.tech)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HanumantJain-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hanumant-jain/)  
@@ -11,8 +11,8 @@
 ## 🚀 About Me  
 
 - 🎓 **Master’s in Computer Science** - *George Washington University (2025)*  
-- 💻 Passionate about **Web Development,Agentic AI, Web Development Blockchain, and Cloud Computing**  
-- 🏆 **ETHGlobal Hackathon & Binance Ideathon Participant**  
+- 💻 Passionate about **Full Stack Development, Web Development,Agentic AI, DevOps, Blockchain, and Cloud Computing**  
+- 🏆 **ETHGlobal Hackathon New York 2025 Winner & Binance Ideathon Participant**  
 - 🌍 Always exploring new technologies and open-source projects  
 
 ---
