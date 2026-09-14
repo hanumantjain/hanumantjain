@@ -1,8 +1,8 @@
 # Hi, I'm Hanumant Jain! 👋  
 
-🚀 **Software Engineer | Agentic AI | Full Stack Developer |Blockchain Enthusiast | Cloud Computing**  
+🚀 **Software Engineer | Agentic AI | Full Stack Developer | Blockchain Enthusiast | Cloud Computing**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hanumantjain.tech-blue?style=flat-square&logo=google-chrome)](https://hanumantjain.tech)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-hanumantjain.tech-blue?style=flat-square&logo=google-chrome)]([https://hanumantjain.tech](https://hanumantj.netlify.app))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HanumantJain-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hanumant-jain/)  
 [![GitHub](https://img.shields.io/github/followers/HanumantJain?style=social)](https://github.com/HanumantJain)  
 
@@ -17,16 +17,10 @@
 
 ---
 
-## ⚡ GitHub Stats  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanumantJain&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect with Me  
 
 📧 **Email**: hanumantjain939@gmail.com  
-🌐 **Portfolio**: [hanumantjain.tech](https://hanumantjain.tech)  
+🌐 **Portfolio**: [hanumantjain](https://hanumantj.netlify.app)  
 
 ---
 
