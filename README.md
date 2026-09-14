@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | Agentic AI | Full Stack Developer | Blockchain Enthusiast | Cloud Computing**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hanumantjain.tech-blue?style=flat-square&logo=google-chrome)]([https://hanumantjain.tech](https://hanumantj.netlify.app))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-hanumantj.netlify.app-blue?style=flat-square&logo=google-chrome)]([https://hanumantjain.tech](https://hanumantj.netlify.app))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HanumantJain-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hanumant-jain/)  
 [![GitHub](https://img.shields.io/github/followers/HanumantJain?style=social)](https://github.com/HanumantJain)  
 
